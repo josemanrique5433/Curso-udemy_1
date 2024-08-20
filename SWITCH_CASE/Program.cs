@@ -35,8 +35,20 @@ class Program
             case 8:
                 Console.WriteLine("AGOSTO");
                 break;
+            case 9:
+                Console.WriteLine("SEPTIEMBRE");
+                break;
+            case 10:
+                Console.WriteLine("OCTUBRE");
+                break;
+            case 11:
+                Console.WriteLine("NOVIEMBRE");
+                break;
+            case 12:
+                Console.WriteLine("DICIEMBRE");
+                break;
             default:
-                Console.WriteLine("Solo esta hasta Agosto");
+                Console.WriteLine("MES NO ENCONTRADO");
                 break;
         }
     }
