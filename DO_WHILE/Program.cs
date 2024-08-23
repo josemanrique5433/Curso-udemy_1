@@ -13,7 +13,8 @@ class Program
            
         }
 
-        while (password != 1234);        {
+        while (password != 1234);        
+        {
             
             Console.WriteLine("Bienvenido");
             
